@@ -1,2 +1,3 @@
 # microbiome-drought-legacy
-A theorectical investigation into drought legacy formation mechanisms and influencing factors using [**DEMENTpy**](https://bioatmosphere.github.io/DEMENTpy/).
+
+A theorectical investigation into drought legacy formation mechanisms and influencing factors in soil microbial systems using [**DEMENTpy**](https://bioatmosphere.github.io/DEMENTpy/).
