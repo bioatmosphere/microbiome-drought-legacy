@@ -8,3 +8,8 @@ data/substrate/.ipynb_checkpoints
 
 # ignore presentation.pptx
 presentation.pptx
+~$presentation.pptx
+
+# ignore manuscript
+
+writing/~$nuscript_Drought_Legacy_v1.0.docx
