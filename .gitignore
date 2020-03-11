@@ -3,8 +3,8 @@ data/.ipynb_checkpoints
 data/drought/.ipynb_checkpoints
 data/microbes/.ipynb_checkpoints
 data/substrate/.ipynb_checkpoints
-data/community/.ipynb_checkpoints
-
+data/community/ternary_example/.ipynb_checkpoints
+data/community/version_1/.ipynb_checkpoints
 
 # ignore presentation.pptx
 presentation.pptx
