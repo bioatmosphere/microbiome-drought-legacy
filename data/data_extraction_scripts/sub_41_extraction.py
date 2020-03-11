@@ -15,12 +15,11 @@ import sys
 def get_pickled_data(key):
     datalist = []
     
-    filelist_19   = glob.glob(key+'[1-9].pickle')
-    filelist_1019 = glob.glob(key+'1[0-9].pickle')
-    filelist_2029 = glob.glob(key+'2[0-9].pickle')
-    filelist_3039 = glob.glob(key+'3[0-9].pickle')
-
-    filelist_4040 = glob.glob(key+'40.pickle')   # 202040
+    #filelist_19   = glob.glob(key+'[1-9].pickle')
+    #filelist_1019 = glob.glob(key+'1[0-9].pickle')
+    #filelist_2029 = glob.glob(key+'2[0-9].pickle')
+    #filelist_3039 = glob.glob(key+'3[0-9].pickle')
+    #filelist_4040 = glob.glob(key+'40.pickle')    # 202040
 
     filelist_4149 = glob.glob(key+'4[1-9].pickle') # 41 - 49
     filelist_5059 = glob.glob(key+'5[0-9].pickle')

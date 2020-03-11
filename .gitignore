@@ -6,11 +6,12 @@ data/microbes/.ipynb_checkpoints
 data/substrate/.ipynb_checkpoints
 data/community/ternary_example/.ipynb_checkpoints
 data/community/version_1/.ipynb_checkpoints
+data/community/version_2/.ipynb_checkpoints
 
 # ignore presentation.pptx
 presentation.pptx
 ~$presentation.pptx
+~$Literature_legacy.xlsx
 
 # ignore manuscript
-
 writing/~$nuscript_Drought_Legacy_v1.0.docx

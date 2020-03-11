@@ -1,5 +1,7 @@
 """
 Script of extracting and calculating community level enzynme investment from the source data (.pickle)
+Author: Bin Wang
+Date: Mar. 11, 2020
 """
 
 import numpy as np
@@ -49,7 +51,7 @@ def community_enzyme(data):
 
 
 folder = sys.argv[1]  # string;
-key   = sys.argv[2]  # string;
+key    = sys.argv[2]  # string;
 
 os.chdir('../output_'+folder)
 
