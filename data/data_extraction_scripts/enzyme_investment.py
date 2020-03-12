@@ -43,7 +43,7 @@ def community_enzyme(data):
     """
 
     Relative_mass = data.MicrobesSeries.div(data.MicrobesSeries.sum(axis=0),axis=1)
-    enzyme_trait  = data.Microbial_traits['Enz_Induci_Cost'] * data.Microbial_traits['Enz_Gene']
+    #enzyme_trait  = data.Microbial_traits['Enz_Induci_Cost'] * data.Microbial_traits['Enz_Gene']
     enzyme_trait  = (data.Microbial_traits['Enz_Induci_Cost'] + data.Microbial_traits['Enz_Consti_Cost']) * data.Microbial_traits['Enz_Gene']
     community_enzyme = Relative_mass.mul(enzyme_trait,axis=0).sum(axis=0)
 
