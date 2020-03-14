@@ -11,7 +11,7 @@ data/community/version_2/.ipynb_checkpoints
 # ignore presentation.pptx
 presentation.pptx
 ~$presentation.pptx
-~$Literature_legacy.xlsx
+~$Literature_legacy_v0.1.xlsx
 
 # ignore manuscript
 writing/~$nuscript_Drought_Legacy_v1.0.docx
