@@ -22,5 +22,5 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 
 ## Documentary
 
-
+A blog telling about the stories behind this project from the verying beginning through the finall publication. 
 
