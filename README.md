@@ -10,7 +10,7 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 
 
 
-## Manuscript
+## [Manuscript](https://github.com/bioatmosphere/microbiome-drought-legacy/tree/master/writing)
 
 
 
