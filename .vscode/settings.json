@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/Users/Ben/DEMENTpy/dement_env/bin/python",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.mypyEnabled": false
-}
