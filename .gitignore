@@ -1,19 +1,15 @@
-#data
-data/.ipynb_checkpoints
-data/version_1/drought/.ipynb_checkpoints
-data/version_1/enzyme/.ipynb_checkpoints
-data/version_1/microbes/.ipynb_checkpoints
-data/version_1/substrate/.ipynb_checkpoints
-data/version_1/community/ternary_example/.ipynb_checkpoints
-data/version_1/community/version_1/.ipynb_checkpoints
-data/version_1/community/version_2/.ipynb_checkpoints
-
+# notebooks
 *.ipynb_checkpoints
 
-# ignore presentation.pptx
-presentation.pptx
-~$presentation.pptx
-~$Literature_legacy_v0.1.xlsx
+#data
 
-# ignore manuscript
-writing/~$nuscript_Drought_Legacy_v1.0.docx
+
+# manuscript
+
+# presentation
+presentation/~$presentation.pptx
+presentation/~$allison_lab_20200527.pptx
+
+# literature
+literature/~$Literature_legacy_v0.5.xlsx
+literature/SummaryDescRefs.pdf
