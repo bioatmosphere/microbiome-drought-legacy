@@ -1,7 +1,5 @@
 .vscode/
 
-
-
 #data
 *.ipynb_checkpoints
 data/Parameters.xlsx
