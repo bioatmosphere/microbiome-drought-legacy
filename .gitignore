@@ -1,17 +1,18 @@
 .vscode/
 
-# notebooks
-*.ipynb_checkpoints
+
 
 #data
-
+*.ipynb_checkpoints
+data/Parameters.xlsx
 
 # manuscript
 
+NEE_submission/
+
 # presentation
-presentation/~$presentation.pptx
-presentation/~$allison_lab_20200527.pptx
+presentation/presentation.pptx
+presentation/allison_lab_20200527.pptx
 
 # literature
-literature/~$Literature_legacy_v0.5.xlsx
 literature/SummaryDescRefs.pdf
