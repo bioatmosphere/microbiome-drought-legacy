@@ -8,8 +8,9 @@ writing/NEE_submission/
 writing/*.docx
 
 # presentation
-presentation/presentation.pptx
+presentation/figure_list.pptx
 presentation/allison_lab_20200527.pptx
 
 # literature
 literature/SummaryDescRefs.pdf
+literature/*.pdf
