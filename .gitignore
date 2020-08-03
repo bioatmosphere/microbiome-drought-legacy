@@ -2,11 +2,10 @@
 
 #data
 *.ipynb_checkpoints
-data/Parameters.xlsx
 
 # manuscript
-
-NEE_submission/
+writing/NEE_submission/
+writing/*.docx
 
 # presentation
 presentation/presentation.pptx
