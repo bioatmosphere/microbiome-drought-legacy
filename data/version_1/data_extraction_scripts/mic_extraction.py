@@ -1,5 +1,8 @@
 """
-Script of extracting data of microbial community based on taxon-specific mass 
+Script of extracting data of microbial community based on taxon-specific mass
+
+By Bin Wang
+September 2020
 """
 
 import numpy as np
@@ -37,5 +40,6 @@ microbes = pd.concat([data.MicrobesSeries for data in datalist], axis=1, sort=Fa
 #sub.columns = filelist_new
 #filelist_sorted = sorted(filelist_new,reverse=False)
 #sub = sub[filelist_sorted]
+
 # export to csv
 microbes.to_csv('Mic_' + folder +'_'+ key + '.csv')
