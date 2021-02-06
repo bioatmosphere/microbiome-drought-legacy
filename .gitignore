@@ -6,6 +6,7 @@
 # manuscript
 writing/NEE_submission/
 writing/*.docx
+writing/
 
 # presentation
 presentation/figure_list.pptx
@@ -16,3 +17,4 @@ presentation/Microbiome_legacy.pptx
 # literature
 literature/SummaryDescRefs.pdf
 literature/*.pdf
+literature/
