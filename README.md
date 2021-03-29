@@ -1,11 +1,9 @@
 # microbiome-drought-legacy
 
-A theorectical investigation into drought legacy formation mechanisms and influencing factors in soil microbial systems using [**DEMENTpy**](https://bioatmosphere.github.io/DEMENTpy/).
+A theorectical investigation into drought legacy formation mechanisms and influencing factors in soil microbial systems using [**DEMENTpy v1.0**](https://github.com/bioatmosphere/DEMENTpy/releases/tag/v1.0).
 
 
-```
-Bin Wang, Steven D. Allison. Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes. Ecosphere. In Press
-```
+** Bin Wang, Steven D. Allison. Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes. Ecosphere (in Press) **
 
 ## Data and Analysis
 
