@@ -1,12 +1,13 @@
 .vscode/
+.gitignore
 
 #data
 *.ipynb_checkpoints
 
 # manuscript
-writing/NEE_submission/
+writing/drafts
+writing/submission
 writing/*.docx
-writing/
 
 # presentation
 presentation/figure_list.pptx
