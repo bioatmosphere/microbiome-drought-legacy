@@ -4,6 +4,7 @@
 
 A theorectical investigation into drought legacy formation mechanisms and influencing factors in soil microbial systems using [**DEMENTpy v1.0**](https://github.com/bioatmosphere/DEMENTpy/releases/tag/v1.0).
 
+---
 
 ***Bin Wang, Steven D. Allison. Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes. Ecosphere (in press)***
 
