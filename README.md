@@ -1,4 +1,4 @@
-![Decomposition Scenarios](https://github.com/bioatmosphere/microbiome-drought-legacy/blob/master/data/version_2/figures/ternary_final.svg)
+![Decomposition Scenarios](https://github.com/bioatmosphere/microbiome-drought-legacy/blob/master/presentation/source_materials/yas_figure_v2.svg)
 
 # Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes
 
