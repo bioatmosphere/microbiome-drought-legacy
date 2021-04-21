@@ -16,7 +16,7 @@ import output
 # define a function of extracting data from files in .pickle 
 def get_pickled_data(key):
     datalist = []
-    filelist = glob.glob(key+'.pickle')
+    filelist = glob.glob(key+'_'+'20201'+'.pickle')
     filelist.sort(reverse=False)
     for file in filelist:
         with open(file,"rb") as f:
@@ -27,10 +27,11 @@ def get_pickled_data(key):
 
 
 
-folder = sys.argv[1]
-key = sys.argv[2]
+site = sys.argv[1]    # site name
+key = sys.argv[2]     # 
 
-os.chdir('../output_'+folder)
+
+os.chdir('../output_'+site)
 
 filelist, datalist = get_pickled_data(key)
 microbes = pd.concat([data.MicrobesSeries for data in datalist], axis=1, sort=False)
@@ -42,4 +43,4 @@ microbes = pd.concat([data.MicrobesSeries for data in datalist], axis=1, sort=Fa
 #sub = sub[filelist_sorted]
 
 # export to csv
-microbes.to_csv('Mic_' + folder +'_'+ key + '.csv')
+microbes.to_csv('data/' + 'Mic_' + site +'_'+ key + '.csv')
