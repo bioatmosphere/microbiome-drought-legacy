@@ -22,7 +22,7 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 
 ## Presentation 
 
-A rough compilation of slides and a few figures in the manuscript, as well as some images from other sources. 
+A rough compilation of slides and a few figures in the manuscript, as well as some images from other sources used in the slides. 
 
 
 ## Documentary
