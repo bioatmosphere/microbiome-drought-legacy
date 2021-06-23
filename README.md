@@ -6,7 +6,7 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 
 ---
 
-***Bin Wang, Steven D. Allison. Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes. Ecosphere. 10.1002/ecs2.3562 (in press)***
+**Bin Wang, Steven D. Allison. [Drought Legacies Mediated by Trait Tradeoffs in Soil Microbiomes](https://doi.org/10.1002/ecs2.3562). Ecosphere. 10.1002/ecs2.3562**
 
 ---
 
@@ -23,9 +23,3 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 ## Presentation 
 
 A rough compilation of slides and a few figures in the manuscript, as well as some images from other sources used in the slides. 
-
-
-## Documentary
-
-A blog telling about the stories behind this project from the verying beginning through the final publication. 
-
