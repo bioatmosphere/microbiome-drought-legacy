@@ -10,9 +10,9 @@ A theorectical investigation into drought legacy formation mechanisms and influe
 
 ---
 
-## Data and Analysis
+## Data and step-by-step Analysis (with Python in Jupyter Notebook)
 
-**version_1**: data and analysis with different Osmolyte Production Rate as in **version_2**, hightlighting the robustness of the simulation.
+**version_1**: data and analysis with a different Osmolyte Production Rate as in **version_2**, hightlighting the robustness of the simulation.
 
 **version_2**: data and analysis behind what's presented in the manuscript.
 
